@@ -1,6 +1,3 @@
-# Sample projects
-* **sample-00**: Test turning on/off a LED in the DE0 Nano development kit
-
 ## Project File Structure
 **project-name/** : Top level directory of the Quartus Prime project
 * **assets/**: Assets for projects (for example, development kit pin assignments) 
